@@ -1,0 +1,13 @@
+name: main_app
+publish_to: none
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  dart_mappable: ^4.4.0
+  some_package:
+    path: ../some_package
+
+dev_dependencies:
+  build_runner: ^2.4.15
+  dart_mappable_builder: ^4.4.0

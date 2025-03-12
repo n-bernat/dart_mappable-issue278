@@ -1,0 +1,11 @@
+name: some_package
+publish_to: none
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  dart_mappable: ^4.4.0
+
+dev_dependencies:
+  build_runner: ^2.4.15
+  dart_mappable_builder: ^4.4.0
