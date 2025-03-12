@@ -1,4 +1,4 @@
-# dart_mappable - Issue #123
+# dart_mappable - Issue #278
 
 See the issue: https://github.com/schultek/dart_mappable/issues/278
 
